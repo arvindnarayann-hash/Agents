@@ -1,1 +1,30 @@
+Enterprise data leader with nearly two decades of experience designing, owning, and delivering complex data solutions across strategic sales, corporate strategy, global supply chains, procurement and spend, spanning order-to-cash, pricing, revenue management, financial planning, market sizing analytics, data migration, and MDM automation.
 
+Owned and delivered over two dozen large-scale data and analytics programmes, generating £2–2.5M in annual business value across enterprise commercial, operational, and finance use cases.
+
+
+Delivered multimillion-pound impact by streamlining market data to unlock £5–10M in annual revenue and re-engineering analytics platforms, delivering £900K+ in annual savings.
+
+
+Revenue & Investment Strategy: Generated ~£1m in revenue and led £1–2m loss-leading investments with a 3–4 year payback, delivering ~£10m p.a. sustained revenue and long-term portfolio growth.
+
+
+Designed, owned and delivered end-to-end data solutions using Azure Data Lake, Databricks, ADF, Synapse, Python, SQL, AAS, and Power BI, leveraging Spark to build scalable analytics platforms.
+
+
+Strong experience in enterprise data modelling, including relational, ER, 3NF, star, hub-and-spoke, and semi-structured models, enabling governed and high-performance analytics at scale.
+
+
+Experienced in traditional AI and machine learning, integrated with SAP, QAD, and CRM to optimise business processes and support leadership decisions through business intelligence and market analytics.
+
+
+Extended analytics platforms into enterprise MDM automation via Evolve and Data Lake workflows, enabling governed master data consumption across analytics and operations.
+
+
+Provided delivery leadership across multi-disciplinary teams, managing onshore and offshore resources to ensure disciplined execution and consistent business value delivery.
+
+
+Recognised for delivering sustained revenue growth, large-scale operational efficiency, Order-to-Cash and inventory optimisation, and long-term cost reduction through data-driven initiatives.
+
+
+MBA (ICFAI) with Executive MBAs in International Business Strategy and Analytics from IIFT and IIMK; Bachelor of Commerce and Mechanical Engineering
