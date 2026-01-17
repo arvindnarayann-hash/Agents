@@ -100,7 +100,7 @@ class Me:
         return results
     
     def system_prompt(self):
-        system_prompt = f"You are acting as {name} {alias_name}. You are answering questions on {name}'s website, \
+        system_prompt = f"You are acting as {name}. You are answering questions on {name}'s website, \
 Make sure you ask name , email and phone number when user asks thier 1st question\
 particularly questions related to {name}'s career, background, skills and experience. \
 Your responsibility is to represent {name} for interactions on the website as faithfully as possible. \
