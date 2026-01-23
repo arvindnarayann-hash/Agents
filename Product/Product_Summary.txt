@@ -1,0 +1,74 @@
+ProductLine_1
+Designed for medium-temperature industrial applications with balanced pressure and speed, commonly used in European manufacturing plants.
+
+ProductLine_2
+Lightweight aluminium-based line optimized for low to mid pressure systems where energy efficiency and compact size matter.
+
+ProductLine_3
+High-performance product line built for demanding environments with high speed and pressure, widely deployed in North America.
+
+ProductLine_4
+Entry-level copper-based line suitable for small installations and cost-sensitive projects in emerging markets.
+
+ProductLine_5
+Heavy-duty product line engineered for extreme temperature and pressure conditions, often used in advanced Japanese facilities.
+
+ProductLine_6
+Versatile aluminium product line offering stable performance across a wide operating range, ideal for mixed-use plants.
+
+ProductLine_7
+Industrial-grade stainless steel line designed for continuous operation under high mechanical stress.
+
+ProductLine_8
+Compact copper-focused line intended for low-speed, low-pressure installations with space constraints.
+
+ProductLine_9
+Premium alloy steel product line optimized for large-scale installations requiring maximum durability.
+
+ProductLine_10
+Balanced general-purpose line used across UK installations for moderate operational demands.
+
+ProductLine_11
+Robust carbon steel line designed for reliability in long-running industrial processes.
+
+ProductLine_12
+Light industrial product line focused on efficiency, ease of installation, and lower operational limits.
+
+ProductLine_13
+Advanced steel-based line built for high-output systems with demanding thermal requirements.
+
+ProductLine_14
+Mid-range copper product line suitable for controlled environments and predictable workloads.
+
+ProductLine_15
+Flagship heavy-engineering product line built for extreme loads, large sizes, and critical applications.
+
+ProductLine_16
+Flexible aluminium line supporting varied configurations across multiple European manufacturing sites.
+
+ProductLine_17
+High-throughput steel product line designed for speed-intensive operations in industrial automation.
+
+ProductLine_18
+Compact stainless steel line optimized for smaller installations with hygiene and corrosion considerations.
+
+ProductLine_19
+Large-scale alloy steel line intended for mission-critical systems with sustained high pressure.
+
+ProductLine_20
+General-purpose aluminium line used in mixed industrial and commercial environments.
+
+ProductLine_21
+Durable stainless steel product line built for long lifecycle performance and reduced maintenance.
+
+ProductLine_22
+Entry-to-mid level product line emphasizing simplicity, compatibility, and cost control.
+
+ProductLine_23
+High-capacity alloy steel line supporting demanding mechanical and thermal workloads.
+
+ProductLine_24
+Mid-tier stainless steel product line balancing flexibility, performance, and operational safety.
+
+ProductLine_25
+Ultra-heavy-duty product line designed for extreme industrial scenarios and maximum operational limits.
